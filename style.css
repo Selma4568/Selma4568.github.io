@@ -1,0 +1,146 @@
+.ad{
+	text-align: center;
+}
+
+
+
+header{
+	margin-top:0px;
+}
+
+header li{
+	margin-top: 25px;
+	text-decoration: none;
+	list-style: none;
+}
+
+header ol{
+	display: flex;
+}
+
+
+header a{
+	font-family: 'Open Sans';
+	font-weight: bold;
+	color:green;
+	font-size: 13px;
+	text-decoration: none;
+
+}
+
+h1{
+	font-size: 25px;
+	font-family: "Open Sans";
+	font-weight: bold;
+	color:#3a9e72;
+	margin-top: 20px;
+	text-decoration: none;
+}
+
+h1:hover{
+	color: #3a9e72;
+	text-decoration: none;
+}
+
+.menu ol{
+		display: flex;
+}
+
+.menu li{
+	margin-top: 25px;
+	text-decoration: none;
+	list-style: none;
+	width: 100%;
+	text-align: center;
+}
+
+.menu a {
+	font-family: 'Open Sans';
+	color: #3a9e72;
+	font-size: 14px;
+	font-weight: bold;	
+}
+.intro{
+	text-align: center;
+	font-size: 13px;
+	justify-content: center;
+	margin-top: 50px;
+	font-family: 'Open Sans';
+	font-weight: bold;
+
+
+}
+
+.intro img{
+	width: 250px;
+	height: 200px;
+}
+
+.container{
+	width: 100%;
+}
+
+
+#carouselExampleControls{
+	width: 750px;
+	height:750px;
+	margin: 0 auto;
+	
+}
+
+.products{
+	text-align: center;
+	font-family: 'Open Sans';
+	font-weight: bold;
+	font-size: 13px;
+	margin-top: 50px;
+}
+
+.btn{
+	color: green;
+	font-family: 'Open Sans';
+	font-weight: bold;
+	font-size: 14px;
+}
+
+
+.btn:hover{
+	color: black;
+}
+
+.nav-link{
+	color: black;
+	font-family: 'Open Sans';
+	font-weight: bold;
+	font-size: 13px;
+
+}
+
+.nav-link:hover{
+	color: green;
+
+}
+
+.green-text{
+	color: green;
+}
+
+
+.contact{
+	font-size: 45px;
+
+}
+
+.contact ol {
+	list-style: none;
+	display: flex;
+}
+
+.contact li {
+	width:100%;
+	text-align:center;
+	margin-top: 100px;
+
+footer{
+	margin-top: 0px;
+}
